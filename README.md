@@ -5,3 +5,5 @@
 Press `p` to save the csv file.
 
 ``` python visualize_cost_map.py cost_map.csv ```
+
+![demo.jpeg](demo.jpeg)
